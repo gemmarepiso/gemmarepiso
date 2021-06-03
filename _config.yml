@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Gemma Repiso-Puigdelliura"
 title_separator          : "-"
 name                     : &name "Gemma Repiso-Puigdelliura"
 description              : &description "PhD Student Spanish Linguistics UCLA"
@@ -91,7 +91,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8269-2378"
   pinterest        :
   soundcloud       :
 
