@@ -5,6 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Invited talks
+Child and Adult Spanish Heritage Speakers' Production of Connected Speech in Spanish, Lecture at the Department of Hispanic Language and Literature College of Humanities, Seoul National University, August 2021
+
+Spanish child and Adult Heritage Speakers' Production of Spanish Rhotics, Lecture at Department of Hispanic Language and Literature College of Humanities, Seoul National University, August 2021
+
+
+
 ## Presentations
 
  **Child phonological grammars**
