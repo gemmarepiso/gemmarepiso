@@ -2,7 +2,7 @@
 title: "Spanish, Portuguese and the Nature of Language"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/teaching
 venue: "University of California, Los Angeles, Spanish and Portuguese Department"
 date: 2020-07-01
 location: "Los Angeles, US"
