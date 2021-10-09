@@ -1,11 +1,9 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'The effects of language transfer during Spanish language development'
+date: 2021-09-10
 permalink: /posts/2012/08/blog-post-4/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - talks
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+These are the [slides](https://gemmarepiso.github.io/files/HLS2021.pdf?raw=true) to my presentation at HLS 2021 on transfer effects during Spanish language development.
