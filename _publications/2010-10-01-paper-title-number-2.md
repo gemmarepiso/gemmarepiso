@@ -9,8 +9,3 @@ paperurl: 'https://brill.com/view/journals/hlj/18/1/article-p1_5.xml'
 citation: 'Repiso-Puigdelliura, G., Benvenuti, I., & Kim, J. Y. (2021). Heritage Speakers’ Production of the Spanish Voiced Palatal Obstruent/ʝ/: A Closer Look at Orthography and Universal Phonetic Principles. <i>Heritage Language Journal</i>, 18(1), 1-30.
 '
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
