@@ -14,7 +14,7 @@ description              : &description "PhD Candidate Hispanic Linguistics"
 url                      : "https://gemmarepiso.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://gemmarepiso.github.io/"
-teaser                   : "/images/gemma_professional.jpg"
+teaser                   : "https://gemmarepiso.github.io//images/gemma.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
