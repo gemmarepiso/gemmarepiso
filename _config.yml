@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Gemma Repiso-Puigdelliura"
 title_separator          : "-"
-name                     : &name "Gemma Repiso-Puigdelliura"
+name                     : &name "Gemma Repiso Puigdelliura"
 description              : &description "PhD Student Spanish Linguistics UCLA"
 url                      : https://grepiso.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
