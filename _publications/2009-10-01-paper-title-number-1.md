@@ -27,5 +27,4 @@ date: 2016-07-16
 venue: 'Heritage Language Journal'
 paperurl: 'https://brill.com/view/journals/hlj/18/1/article-p1_5.xml'
 citation: 'Repiso-Puigdelliura, G., Benvenuti, I., & Kim, J. Y. (2021). Heritage Speakers’ Production of the Spanish Voiced Palatal Obstruent/ʝ/: A Closer Look at Orthography and Universal Phonetic Principles. <i>Heritage Language Journal</i>, 18(1), 1-30.
-'
 ---
