@@ -1,7 +1,6 @@
 
 ---
 title: "Deconstructing Heritage Language Dominance: Effects of Proficiency, Use, and Input on Heritage Speakers’ Production of the Spanish Alveolar Tap."
- "
 collection: publications
 excerpt: 'This study considers language dominance as a composite of proficiency, use, and input, and examines how these constructs in Spanish influence heritage speakers' production of Spanish alveolar taps. Two aspects of Spanish tap production were examined: lingual constriction rates and the degree of lingual constriction. Multiple measures associated with Spanish proficiency, use, and input were reduced to a smaller number of dimensions using principal component analysis, and the effects of the components on heritage speakers' tap production were analyzed using mixed effects modeling. The overall findings suggest that dominance in Spanish may not have an effect on the degree of lingual constriction of heritage speakers' taps, but it does have an effect on how frequently heritage speakers produce taps with lingual constriction. Spanish use and input were found to be the main contributors to heritage speakers' target-like production of taps.'
 date: 2020-05-01
