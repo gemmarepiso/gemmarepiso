@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Projects
 
 - My dissertation project examines **transfer of glottal stop epenthesis in Spanish child heritage speakers** in word external consonant vowel sequences (e.g., un ojo). While resyllabification is the most common strategy to repair syllables without onsets in Spanish (e.g., \[u.no.xo\]), English optionally allows for glottal stop- epenthesis preceding the word-initial vowel (e.g., \[ən.ʔɜg\]). Transfer of glottal stop epenthesis in Spanish would look like this - \[un.ʔo.xo\].  Preliminary results will be presented at the 45th Boston University Conference on Language Acquisition and published on the *International Journal of Bilingualism*. Stay tuned for that! Find here the [slides](https://github.com/gemmarepiso/gemmarepiso.github.io/blob/master/assets/images/resyllabification%20(67).pdf?raw=true) for CASPSLaP 2020.
 
