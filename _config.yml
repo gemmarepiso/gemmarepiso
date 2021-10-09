@@ -13,8 +13,8 @@ name                     : &name "Gemma Repiso Puigdelliura"
 description              : &description "PhD Candidate Hispanic Linguistics"
 url                      : https://gemmarepiso.github.io/gemmarepisopu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://gemmarepiso.github.io/gemmarepisopu.github.io/"
-teaser                   : "/images/gemma_professional.JPG"
+repository               : "https://gemmarepiso.github.io/"
+teaser                   : "/images/gemma_professional.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
