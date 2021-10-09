@@ -26,6 +26,8 @@ Repiso-Puigdelliura, Gemma. (October, 2021). The effects of language transfer du
 
 Repiso-Puigdelliura, Gemma. (April - May, 2021). Do Spanish Codas Completely Resyllabify? A Look at Mexican Spanish. <i>Linguistic Symposium on Romance Languages 51</i>
 2021, Urbana-Champagin (online), USA.
+
+
  **Intonation**
 
  Repiso-Puigdelliura Gemma. (2019). The intonation of child heritage speakers. <i>Hispanic Linguistics Symposium 2019</i>, El Paso, USA.
