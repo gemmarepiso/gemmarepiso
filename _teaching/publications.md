@@ -2,7 +2,7 @@
 title: "Catalan in the United States"
 collection: teaching
 type: "Publications"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/publications
 venue: "University of California, Los Angeles, Spanish and Portuguese Department"
 date: 2020-07-01
 location: "Los Angeles, US"
