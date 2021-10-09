@@ -1,4 +1,3 @@
-
 ---
 title: "Deconstructing Heritage Language Dominance: Effects of Proficiency, Use, and Input on Heritage Speakers’ Production of the Spanish Alveolar Tap."
 collection: publications
