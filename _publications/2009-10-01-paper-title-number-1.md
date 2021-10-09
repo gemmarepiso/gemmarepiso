@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Empty Onset Repairs in the Semi-Spontaneous Speech of Spanish Child and Adult Heritage Speakers."
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'In this study I investigate whether child and adult Spanish heritage speakers (HS) use English-like strategies to repair word-external empty onsets preceded by consonants (e.g., el.#o.so ‘the (male) bear’). That is, I examine whether HS produce glottal phonation at /C#V/ junctures. I also examine whether stress predicts the use of glottal phonation to repair word-external empty onsets.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'International Journal of Bilingualism'
+paperurl: 'https://journals.sagepub.com/doi/abs/10.1177/13670069211016547?ai=1gvoi&mi=3ricys&af=R'
+citation: 'Repiso-Puigdelliura G. Empty onset repairs in the semi-spontaneous speech of Spanish child and adult heritage speakers. <i>International Journal of Bilingualism</i>. May 2021. doi:10.1177/13670069211016547'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
