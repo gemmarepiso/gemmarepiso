@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gemma Repiso Puigdelliura"
 title_separator          : "-"
 name                     : &name "Gemma Repiso Puigdelliura"
-description              : &description "PhD Candidate Hispanic Linguistics"
+description              : &description "Assistant Professor in the Department of Linguistics & Languages at McMaster University"
 url                      : "https://gemmarepiso.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://gemmarepiso.github.io/"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Gemma Repiso Puigdelliura"
   avatar           : "gemma.jpg"
-  bio              : "PhD Candidate"
+  bio              : ""
   location         : "Los Angeles"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Kxjo03AAAAAJ&hl=en"
-  email            : grepisopu@ucla.edu
+  email            : repisopg@mcmaster.ca
   researchgate     :  # https://www.researchgate.net/profile/Gemma-Repiso"
   uri              :
   bitbucket        :
