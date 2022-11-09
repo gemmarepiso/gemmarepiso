@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching2
 venue: "McMaster University Linguistics & Languages"
-date: 2020-07-01
+date: 2022-07-01
 location: "Hamilton, CA"
 ---
 The objective of this course is to become familiar with the fundamentals of programming and apply them to linguistic research. 
