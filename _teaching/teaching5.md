@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/teaching4
 venue: "McMaster University Linguistics & Languages"
-date: 2020-07-01
+date: 2022-07-01
 location: "Hamilton, CA"
 ---
 This course is an introduction to the phonological structure of language. We will build on concepts such as phonemes, allophones, distinctive features, rules, syllabification,
