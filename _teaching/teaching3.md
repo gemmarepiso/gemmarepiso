@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching3
 venue: "McMaster University Linguistics & Languages"
-date: 2020-07-01
+date: 2022-07-01
 location: "Hamilton, CA"
 ---
 In this course, students will describe cognitive processes involved in speech perception, word recognition and sentence comprehension,
