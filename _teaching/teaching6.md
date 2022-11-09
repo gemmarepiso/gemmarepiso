@@ -1,5 +1,5 @@
 ---
-title: "1A03 ISounds, Speech and Hearing "
+title: "1A03 Sounds, Speech and Hearing "
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/teaching6
