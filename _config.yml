@@ -14,7 +14,7 @@ description              : &description "Assistant Professor in the Department o
 url                      : "https://gemmarepiso.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://gemmarepiso.github.io/"
-teaser                   : "/images/gemma.jpg"
+teaser                   : "/images/photo_GRP2.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
