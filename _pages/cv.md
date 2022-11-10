@@ -19,8 +19,8 @@ Education
 
 Professional appointments
 ======
+* Assistant Professor, Linguistics and Languages Department, McMaster University, 2022
 * Lecturer, Spanish and Portuguese, University of California, Los Angeles, 2015 - 2018
-* Assistant Professor, Linguistics and Languages Department, McMaster University
 
 Publications
 ======
