@@ -9,6 +9,16 @@ redirect_from:
 ---
 
 
-I am an Assistant Professor in the Department of Linguistics & Languages at McMaster University. My main interests are in Spanish heritage language acquisition, child language acquisition, Spanish phonetics and phonology. In my research I seek to better understand the development of Spanish heritage phonology by comparing child Spanish heritage speakers to adult heritage speakers. I examine the age factor and the effects of language exposure to the heritage language. My aim is to inform theories of heritage language phonology and create phonological models that can account for speaker-specific bidirectional transfer as well as processing-specific effects of language transfer. I am working with introducing activation scores in the phonological grammars of heritage speakers. 
+I am an Assistant Professor in the Department of Linguistics & Languages at McMaster University. My main interests are in laboratory phonology, heritage languages, and bilingual child language acquisition. My research sheds light on the patterns of grammar interaction by exploring the following areas:
+
+- Vulnerable phenomena in early bilingual grammars.
+- The role of age in language transfer in early bilingual grammars.
+- The roles of quantity and quality of language exposure in early bilingual grammars.
+
+**News**
+
+Repiso-Puigdelliura, Gemma. (accepted in its final form) Glottalizing at Word Junctures:
+Exploring Bidirectional Transfer in Child and Adult Spanish Heritage Speakers. Bilingualism:
+Language and Cognition
 
 You can download my [CV](https://gemmarepiso.github.io/files/CV.pdf?raw=true) here. 
