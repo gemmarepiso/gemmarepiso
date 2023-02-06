@@ -21,4 +21,7 @@ Repiso-Puigdelliura, Gemma. (accepted in its final form) Glottalizing at Word Ju
 Exploring Bidirectional Transfer in Child and Adult Spanish Heritage Speakers. Bilingualism:
 Language and Cognition
 
+
+ SSHRC Explore – Standard Research and Creative and Performing Arts Grant $6,967.00 for the project 'Examining Individual Variation in Trill Acquisition'.
+
 You can download my [CV](https://gemmarepiso.github.io/files/CV.pdf?raw=true) here. 
