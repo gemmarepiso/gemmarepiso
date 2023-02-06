@@ -15,4 +15,4 @@ comprehension
 language comprehension
 - Interpret experimental data to investigate language comprehension
 - Implement research methods in psycholinguistics by designing a research experiment on speech
-perception, speech production, word learning or sentence parsing
+perception, speech production, word learning or sentence parsing.
