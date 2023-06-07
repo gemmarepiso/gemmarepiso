@@ -22,7 +22,7 @@ Ongoing projects:
 
 Repiso-Puigdelliura, Gemma. (2023) Glottalizing at Word Junctures:
 Exploring Bidirectional Transfer in Child and Adult Spanish Heritage Speakers. Bilingualism:
-Language and Cognition[!https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/glottalizing-at-word-junctures-exploring-bidirectional-transfer-in-child-and-adult-spanish-heritage-speakers/A0EFAEBC7B352F8479AD79DCDA0F6622]
+Language and Cognition. [Download here](https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/glottalizing-at-word-junctures-exploring-bidirectional-transfer-in-child-and-adult-spanish-heritage-speakers/A0EFAEBC7B352F8479AD79DCDA0F6622)
 
 
  SSHRC Explore – Standard Research and Creative and Performing Arts Grant $6,967.00 for the project 'Examining Individual Variation in Trill Acquisition'.
