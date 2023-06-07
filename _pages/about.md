@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an Assistant Professor in the Department of Linguistics & Languages at McMaster University. My main interests are in laboratory phonology, heritage languages, and bilingual child language acquisition. Using quantitative approaches, I investigate the development of speech sounds and phonological processes in bilingual communities with migratory backgrounds (i.e., heritage language-speaking communities). In particular, I am interested in the question of how bilingual grammars develop and which are the grammatical and extragrammatical factors predicting individual variation in these grammars. My work aims at informing theories of bilingual grammars.
+I am an Assistant Professor in the Department of Linguistics & Languages at McMaster University. My main interests lie in laboratory phonology, heritage languages, and bilingual child language acquisition. Using quantitative approaches, I conduct research on the development of speech sounds and phonological processes in bilingual communities with migratory backgrounds, specifically those who speak heritage languages. I am particularly intrigued by how bilingual grammars evolve and the factors, both grammatical and extragrammatical, that contribute to individual variations in these grammars. My work aims to enhance our understanding of theories related to bilingual grammars.
 
 Ongoing projects:
 
