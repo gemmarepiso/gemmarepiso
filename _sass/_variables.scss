@@ -33,9 +33,9 @@ $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
 /* type scale */
-$type-size-1                : 2.441em;  // ~39.056px
-$type-size-2                : 1.953em;  // ~31.248px
-$type-size-3                : 1.563em;  // ~25.008px
+$type-size-1                : 2em;  // ~39.056px
+$type-size-2                : 1.5em;  // ~31.248px
+$type-size-3                : 1.2em;  // ~25.008px
 $type-size-4                : 1.25em;   // ~20px
 $type-size-5                : 1em;      // ~16px
 $type-size-6                : 0.75em;   // ~12px
@@ -57,12 +57,12 @@ $body-color                 : #FFFFFE;
 $background-color           : #FFFFFE;
 $code-background-color      : #FFFFFE;
 $code-background-color-dark : #FFFFFE;
-$text-color                 : #531319;
-$border-color               : #8B2030;
+$text-color                 : #0d0d0d;
+$border-color               : #f2efea;
 
-$primary-color              : #8B2030;
-$success-color              : #8B2030;
-$warning-color              : #8B2030;
+$primary-color              : #557373;
+$success-color              : #dfe5f3;
+$warning-color              : #dfe5f3;
 $danger-color               : #FE4C6F;
 $info-color                 : #8B2030;
 $info-color2                : #FE4C6F;
