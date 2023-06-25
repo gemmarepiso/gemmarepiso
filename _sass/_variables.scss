@@ -41,6 +41,8 @@ $type-size-5                : 1em;      // ~16px
 $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
+$type-size-syntax           : 0.875em;  // ~14px
+
 
 
 /*
@@ -63,9 +65,9 @@ $border-color               : #f2efea;
 $primary-color              : #557373;
 $success-color              : #dfe5f3;
 $warning-color              : #dfe5f3;
-$danger-color               : #FE4C6F;
-$info-color                 : #8B2030;
-$info-color2                : #FE4C6F;
+$danger-color               : #dfe5f3;
+$info-color                 : #557373;
+$info-color2                : #557373;
 
 /* brands */
 $behance-color              : #1769FF;
