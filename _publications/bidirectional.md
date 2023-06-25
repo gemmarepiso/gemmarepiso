@@ -5,4 +5,5 @@ excerpt: "While research in heritage language phonology has found that transfer 
 date: 2023-01-01
 venue: 'Bilingualism: Language and Cognition'
 paperurl: 'https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/glottalizing-at-word-junctures-exploring-bidirectional-transfer-in-child-and-adult-spanish-heritage-speakers/A0EFAEBC7B352F8479AD79DCDA0F6622'
+citation: 'Repiso-Puigdelliura, G. (2023). Glottalizing at word junctures: Exploring bidirectional transfer in child and adult Spanish heritage speakers. Bilingualism: Language and Cognition, 1-13. doi:10.1017/S1366728923000160'
 ---
