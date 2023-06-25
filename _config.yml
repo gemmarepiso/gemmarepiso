@@ -81,15 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Gemma Repiso Puigdelliura"
-  avatar           : "gemma.jpg"
+  avatar           : ""/images/photo_GRP2.png""
   bio              : ""
   location         : "Hamilton"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Kxjo03AAAAAJ&hl=en"
   email            : repisopg@mcmaster.ca
-  researchgate     :  # https://www.researchgate.net/profile/Gemma-Repiso"
-  uri              :
+  researchgate     :  "https://www.researchgate.net/profile/Gemma-Repiso"
+  uri              :  "https://arieal.humanities.mcmaster.ca/about-us/our-team/senior-research-associates/gemma-repiso-puigdelliura/"
   bitbucket        :
   codepen          :
   dribbble         :
