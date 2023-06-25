@@ -14,7 +14,7 @@ description              : &description "Assistant Professor in the Department o
 url                      : "https://gemmarepiso.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://gemmarepiso.github.io/"
-teaser                   : "photo_GRP2.png"
+teaser                   : "photo_GRP3.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Gemma Repiso Puigdelliura"
-  avatar           : "photo_GRP2.png"
+  avatar           : "photo_GRP3.jpg"
   bio              : ""
   location         : "Hamilton"
   employer         : 
