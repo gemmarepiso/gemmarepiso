@@ -20,7 +20,6 @@ Ongoing projects:
 
 **News**
 
- Repiso-Puigdelliura, Gemma (June 2023). Developing epenthetic vowels in consonant clusters in heritage Spanish, 53rd Linguistic Symposium on Romance Languages, Paris. Find [my slides](https://gemmarepiso.github.io/LSRL53/#1)
 
 Repiso-Puigdelliura, Gemma. (2023) Glottalizing at Word Junctures:
 Exploring Bidirectional Transfer in Child and Adult Spanish Heritage Speakers. Bilingualism:
