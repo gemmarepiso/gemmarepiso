@@ -29,4 +29,4 @@ Language and Cognition. [Download here](https://www.cambridge.org/core/journals/
 
  SSHRC Explore – Standard Research and Creative and Performing Arts Grant $6,967.00 for the project 'Examining Individual Variation in Trill Acquisition'.
 
-You can download my [CV](https://gemmarepiso.github.io/files/CV.pdf?raw=true) here. 
+You can download my [CV](https://gemmarepiso.github.io/files/RepisoPuigdelliura_v0710.pdf?raw=true) here. 
