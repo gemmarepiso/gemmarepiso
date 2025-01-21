@@ -1,7 +1,7 @@
 ---
 title: 'Statistics for linguists course'
 date: 2021-08-01
-permalink: /post6/
+permalink: /posts/2012/08/blog-post-4/
 tags:
   - statistics
   - power analysis
